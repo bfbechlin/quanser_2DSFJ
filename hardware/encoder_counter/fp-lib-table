@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Maplex_Misc)(type KiCad)(uri "$(KIPRJMOD)/Maplex_Misc.pretty")(options "")(descr ""))
+  (lib (name arduino_shields)(type Legacy)(uri "$(KIPRJMOD)/lib/arduino_shields.mod")(options "")(descr ""))
+)

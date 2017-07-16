@@ -1,4 +1,4 @@
-update=Ter 30 Mai 2017 21:09:02 BRT
+update=Sáb 15 Jul 2017 21:47:12 BRT
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/Quanser_2DSFJ
+LibName31=lib/arduino_shields

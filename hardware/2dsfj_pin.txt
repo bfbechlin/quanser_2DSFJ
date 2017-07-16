@@ -1,0 +1,27 @@
+Conectors:
+
+Power:
+		7 NC
+1 +15V		6 NC		5 GND
+	2 -15V		4 NC
+		3 NC
+
+Encoder: DIN5 
+
+Encoder 0 Vcc is output (+5V), Encoders 1, 2, 3 Vcc is input
+
+
+		  NC
+3 CHA				1 GND
+	5 CHB		4 Vcc
+		2 NC
+
+
+Digital: IDC16
+2 SH1 4 SH2 6 ELB1 8 ELB2 10 NC 12 NC  14 NC  16 NC
+1 GND 3 GND 5 GND  7 GND  9 GND 11 GND 13 GND 15 GND
+
+Motor:
+	1 +Vm
+2 -Vm		3 NC
+	4 Protection GND
