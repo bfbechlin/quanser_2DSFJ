@@ -1,0 +1,16 @@
+value,footprint,libsource/_lib,libsource/_part,sheetpath/_names,sheetpath/_tstamps,tstamp,_ref
+LS7366R,Maplex_Misc:DIP-14_W15.24mm_Socket_Header,Quanser_2DSFJ,LS7366R,/,/,59290FE2,U5
+32 MHz,Maplex_Misc:Crystal_HC18-U_Vertical,device,Crystal,/,/,59292D99,Y1
+22pF,Maplex_Misc:C_Disc_D3.4mm_W2.1mm_P2.50mm,device,C,/,/,5929304A,C9
+22pF,Maplex_Misc:C_Disc_D3.4mm_W2.1mm_P2.50mm,device,C,/,/,592930BB,C7
+LS7366R,Maplex_Misc:DIP-14_W15.24mm_Socket_Header,Quanser_2DSFJ,LS7366R,/,/,5929CA35,U6
+32 MHz,Maplex_Misc:Crystal_HC18-U_Vertical,device,Crystal,/,/,5929CA3C,Y2
+22pF,Maplex_Misc:C_Disc_D3.4mm_W2.1mm_P2.50mm,device,C,/,/,5929CA43,C10
+22pF,Maplex_Misc:C_Disc_D3.4mm_W2.1mm_P2.50mm,device,C,/,/,5929CA4A,C8
+1M,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,592E4F69,R1
+1M,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,592E537A,R2
+0.1uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,592E59BD,C6
+10uF,Maplex_Misc:CP_Radial_D6.3mm_P2.50mm,device,CP1,/,/,592E640F,C3
+0.1uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,592E674C,C5
+10uF,Maplex_Misc:CP_Radial_D6.3mm_P2.50mm,device,CP1,/,/,592E6761,C2
+GALILEO_SHIELD,Maplex_Misc:ARDUINO_SHIELD,arduino_shields,ARDUINO_SHIELD,/,/,596AD80B,SHIELD1

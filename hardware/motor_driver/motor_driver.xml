@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/beuren/Projects/micros/quanser_2DSFJ/hardware/motor_driver/motor_driver.sch</source>
+    <date>Ter 25 Jul 2017 21:56:23 BRT</date>
+    <tool>Eeschema 4.0.2+dfsg1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>motor_driver.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U3">
+      <value>HIP4081A</value>
+      <footprint>Maplex_Misc:DIP-20_W7.62mm_Socket</footprint>
+      <libsource lib="Quanser_2DSFJ" part="HIP4081A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5928475F</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>C_bootstrap</value>
+      <footprint>Maplex_Misc:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="device" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592914D2</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_bootstrap</value>
+      <footprint>Maplex_Misc:Diode_P7.6mm_5mm</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59291A64</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>C_bootstrap</value>
+      <footprint>Maplex_Misc:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="device" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5928EFA1</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_bootstrap</value>
+      <footprint>Maplex_Misc:Diode_P7.6mm_5mm</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5928F569</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10uFx16v</value>
+      <footprint>Maplex_Misc:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="device" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592B9B8A</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592BA7D7</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1000uFx100v</value>
+      <footprint>Maplex_Misc:CP_Radial_D12.5mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592BAECD</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>1000uFx100v</value>
+      <footprint>Maplex_Misc:CP_Radial_D12.5mm_P5.00mm</footprint>
+      <libsource lib="device" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592BBF67</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>560</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592C0195</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>220</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592C0381</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>10uFx16v</value>
+      <footprint>Maplex_Misc:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="device" part="CP1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592E11E2</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592E11EB</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.33 uF</value>
+      <footprint>Maplex_Misc:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594DED5C</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.33 uF</value>
+      <footprint>Maplex_Misc:C_Disc_D7.5mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594DF50E</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1 uF</value>
+      <footprint>Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594DFFDF</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1 uF</value>
+      <footprint>Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594E02AC</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>4N25</value>
+      <footprint>Maplex_Misc:DIP-6_W7.62mm_Socket</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594E76D0</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>4N25</value>
+      <footprint>Maplex_Misc:DIP-6_W7.62mm_Socket</footprint>
+      <libsource lib="opto" part="4N25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594F708A</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>74HC14</value>
+      <footprint>Maplex_Misc:DIP-14_W7.62mm_Socket</footprint>
+      <libsource lib="74xx" part="74HC14"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594F719E</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>220</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594F79B5</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>220</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594F89E7</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594F9C02</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594FBAAD</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>220</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594FDB4A</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Maplex_Misc:LED_D5.0mm</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>594FE16B</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Maplex_Misc:LED_D5.0mm</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5950A3DC</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>Maplex_Misc:LED_D5.0mm</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5950D16E</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5960790E</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59607DCC</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59608814</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5960888D</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596314A1</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596319DC</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5963419E</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59634768</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596319B1</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59631D79</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59636E15</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>IRFZ40</value>
+      <footprint>Maplex_Misc:TO-220_Neutral_Vertical</footprint>
+      <libsource lib="transistors" part="IRF540N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59682EB2</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>IRFZ40</value>
+      <footprint>Maplex_Misc:TO-220_Neutral_Vertical</footprint>
+      <libsource lib="transistors" part="IRF540N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59683B8F</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>IRFZ40</value>
+      <footprint>Maplex_Misc:TO-220_Neutral_Vertical</footprint>
+      <libsource lib="transistors" part="IRF540N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59683E73</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>IRFZ40</value>
+      <footprint>Maplex_Misc:TO-220_Neutral_Vertical</footprint>
+      <libsource lib="transistors" part="IRF540N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5968439B</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>10</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596884D5</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM7805CT</value>
+      <footprint>Maplex_Misc:TO-220_Neutral_Vertical</footprint>
+      <libsource lib="regul" part="LM7805CT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5969526E</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM7812CT</value>
+      <footprint>Maplex_Misc:TO-220_Neutral_Vertical</footprint>
+      <libsource lib="regul" part="LM7812CT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59695750</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>0</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5969A377</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>0</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5969B1CE</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>0</value>
+      <footprint>Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5969C312</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="opto" part="4N25">
+      <aliases>
+        <alias>4N26</alias>
+      </aliases>
+      <description>DIP6, DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 2500V</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4N25</field>
+        <field name="Footprint">DIP-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74HCT04">
+      <aliases>
+        <alias>74HC14</alias>
+        <alias>74HC04</alias>
+        <alias>74LS14</alias>
+      </aliases>
+      <description>Hex Inverseur</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HCT04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="output"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="output"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP1">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>SMD*_Pol</fp>
+        <fp>c_elec*</fp>
+        <fp>C*elec</fp>
+        <fp>TantalC*</fp>
+        <fp>Elko*</fp>
+        <fp>CP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Quanser_2DSFJ" part="HIP4081A">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HIP4081A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BHB" type="input"/>
+        <pin num="2" name="BHI" type="input"/>
+        <pin num="3" name="DIS" type="input"/>
+        <pin num="4" name="Vss" type="power_in"/>
+        <pin num="5" name="BLI" type="input"/>
+        <pin num="6" name="ALI" type="input"/>
+        <pin num="7" name="AHI" type="input"/>
+        <pin num="8" name="HDEL" type="input"/>
+        <pin num="9" name="LDEL" type="input"/>
+        <pin num="10" name="AHB" type="input"/>
+        <pin num="11" name="AHO" type="output"/>
+        <pin num="12" name="AHS" type="input"/>
+        <pin num="13" name="ALO" type="output"/>
+        <pin num="14" name="ALS" type="input"/>
+        <pin num="15" name="Vcc" type="power_in"/>
+        <pin num="16" name="Vdd" type="power_in"/>
+        <pin num="17" name="BLS" type="input"/>
+        <pin num="18" name="BLO" type="output"/>
+        <pin num="19" name="BHS" type="input"/>
+        <pin num="20" name="BHO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="transistors" part="IRF540N">
+      <description>100V Vds, 33A Id, HEXFET N-Channel MOSFET, TO-220</description>
+      <docs>http://www.irf.com/product-info/datasheets/data/irf540n.pdf</docs>
+      <footprints>
+        <fp>TO-220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRF540N</field>
+        <field name="Footprint">TO-220</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="LM7805CT">
+      <aliases>
+        <alias>LM7806CT</alias>
+        <alias>LM7808CT</alias>
+        <alias>LM7809CT</alias>
+        <alias>LM7810CT</alias>
+        <alias>LM7812CT</alias>
+        <alias>LM7815CT</alias>
+        <alias>LM7818CT</alias>
+        <alias>LM7824CT</alias>
+        <alias>LM7806ACT</alias>
+        <alias>LM7808ACT</alias>
+        <alias>LM7809ACT</alias>
+        <alias>LM7810ACT</alias>
+        <alias>LM7812ACT</alias>
+        <alias>LM7815ACT</alias>
+        <alias>LM7818ACT</alias>
+        <alias>LM7824ACT</alias>
+      </aliases>
+      <description>Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220</description>
+      <docs>http://www.fairchildsemi.com/ds/LM/LM7805.pdf</docs>
+      <footprints>
+        <fp>TO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7805CT</field>
+        <field name="Footprint">TO-220</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="regul">
+      <uri>/usr/share/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="74xx">
+      <uri>/usr/share/kicad/library/74xx.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>/usr/share/kicad/library/transistors.lib</uri>
+    </library>
+    <library logical="opto">
+      <uri>/usr/share/kicad/library/opto.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="Quanser_2DSFJ">
+      <uri>/home/beuren/Projects/micros/quanser_2DSFJ/hardware/motor_driver/lib/Quanser_2DSFJ.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(R13-Pad2)">
+      <node ref="U3" pin="13"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="2" name="Net-(C13-Pad2)">
+      <node ref="C6" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="U3" pin="19"/>
+      <node ref="R19" pin="2"/>
+    </net>
+    <net code="3" name="Net-(C14-Pad1)">
+      <node ref="R20" pin="2"/>
+      <node ref="U3" pin="12"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C14" pin="1"/>
+    </net>
+    <net code="4" name="LOAD-">
+      <node ref="R20" pin="1"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="R16" pin="2"/>
+      <node ref="Q4" pin="2"/>
+    </net>
+    <net code="5" name="Net-(C14-Pad2)">
+      <node ref="U3" pin="10"/>
+      <node ref="C3" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="C14" pin="2"/>
+    </net>
+    <net code="6" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U5" pin="5"/>
+    </net>
+    <net code="7" name="Net-(R8-Pad2)">
+      <node ref="U6" pin="5"/>
+      <node ref="R8" pin="2"/>
+      <node ref="U6" pin="8"/>
+    </net>
+    <net code="8" name="Net-(R5-Pad1)">
+      <node ref="U3" pin="8"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="9" name="Net-(C13-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="U3" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="10" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="11" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="U3" pin="20"/>
+    </net>
+    <net code="12" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="13" name="Net-(Q4-Pad1)">
+      <node ref="R13" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="14" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="15" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="16" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="17" name="Net-(Q1-Pad1)">
+      <node ref="R14" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="18" name="LOAD+">
+      <node ref="Q1" pin="3"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R19" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="19" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="20" name="IN_A">
+      <node ref="U3" pin="6"/>
+      <node ref="U6" pin="3"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="21" name="V+">
+      <node ref="Q1" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="Q3" pin="2"/>
+    </net>
+    <net code="22" name="+12V">
+      <node ref="D4" pin="2"/>
+      <node ref="U3" pin="15"/>
+      <node ref="C4" pin="1"/>
+      <node ref="D3" pin="2"/>
+      <node ref="U3" pin="16"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U3" pin="7"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="23" name="Net-(R9-Pad1)">
+      <node ref="U3" pin="9"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="24" name="+5V">
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U6" pin="14"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="25" name="VIN_REG">
+      <node ref="U1" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="26" name="IN_B">
+      <node ref="U3" pin="5"/>
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="27" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="28" name="DISABLE">
+      <node ref="U3" pin="3"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="29" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="30" name="Net-(D5-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="31" name="ENABLE">
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="32" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="U5" pin="1"/>
+    </net>
+    <net code="33" name="PWM">
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="34" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="35" name="GND_EXT">
+      <node ref="U5" pin="2"/>
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="36" name="GND">
+      <node ref="R15" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="D5" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="U6" pin="7"/>
+      <node ref="U3" pin="14"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="C4" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U5" pin="4"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="U3" pin="17"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="R17" pin="2"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="37" name="Net-(U4-Pad6)">
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="38" name="Net-(U5-Pad6)">
+      <node ref="U5" pin="6"/>
+    </net>
+  </nets>
+</export>

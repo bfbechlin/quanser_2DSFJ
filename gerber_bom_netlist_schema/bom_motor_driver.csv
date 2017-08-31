@@ -1,0 +1,50 @@
+value,footprint,libsource/_lib,libsource/_part,sheetpath/_names,sheetpath/_tstamps,tstamp,_ref
+HIP4081A,Maplex_Misc:DIP-20_W7.62mm_Socket,Quanser_2DSFJ,HIP4081A,/,/,5928475F,U3
+C_bootstrap,Maplex_Misc:CP_Radial_D6.3mm_P2.50mm,device,CP1,/,/,592914D2,C6
+D_bootstrap,Maplex_Misc:Diode_P7.6mm_5mm,device,D,/,/,59291A64,D3
+C_bootstrap,Maplex_Misc:CP_Radial_D6.3mm_P2.50mm,device,CP1,/,/,5928EFA1,C3
+D_bootstrap,Maplex_Misc:Diode_P7.6mm_5mm,device,D,/,/,5928F569,D4
+10uFx16v,Maplex_Misc:CP_Radial_D6.3mm_P2.50mm,device,CP1,/,/,592B9B8A,C7
+0.1uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,592BA7D7,C10
+1000uFx100v,Maplex_Misc:CP_Radial_D12.5mm_P5.00mm,device,CP1,/,/,592BAECD,C8
+1000uFx100v,Maplex_Misc:CP_Radial_D12.5mm_P5.00mm,device,CP1,/,/,592BBF67,C9
+560,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,592C0195,R2
+220,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,592C0381,R3
+10uFx16v,Maplex_Misc:CP_Radial_D6.3mm_P2.50mm,device,CP1,/,/,592E11E2,C11
+0.1uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,592E11EB,C12
+0.33 uF,Maplex_Misc:C_Disc_D7.5mm_W2.5mm_P5.00mm,device,C,/,/,594DED5C,C2
+0.33 uF,Maplex_Misc:C_Disc_D7.5mm_W2.5mm_P5.00mm,device,C,/,/,594DF50E,C1
+0.1 uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,594DFFDF,C5
+0.1 uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,594E02AC,C4
+4N25,Maplex_Misc:DIP-6_W7.62mm_Socket,opto,4N25,/,/,594E76D0,U4
+4N25,Maplex_Misc:DIP-6_W7.62mm_Socket,opto,4N25,/,/,594F708A,U5
+74HC14,Maplex_Misc:DIP-14_W7.62mm_Socket,74xx,74HC14,/,/,594F719E,U6
+220,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,594F79B5,R4
+220,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,594F89E7,R1
+10k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,594F9C02,R7
+10k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,594FBAAD,R6
+220,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,594FDB4A,R8
+LED,Maplex_Misc:LED_D5.0mm,motor_driver-rescue,LED-RESCUE-motor_driver,/,/,594FE16B,D1
+LED,Maplex_Misc:LED_D5.0mm,motor_driver-rescue,LED-RESCUE-motor_driver,/,/,5950A3DC,D2
+LED,Maplex_Misc:LED_D5.0mm,motor_driver-rescue,LED-RESCUE-motor_driver,/,/,5950D16E,D5
+0.1uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,5960790E,C14
+0.1uF,Maplex_Misc:C_Disc_D5.0mm_W2.5mm_P2.50mm,device,C,/,/,59607DCC,C13
+100k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,59608814,R5
+100k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,5960888D,R9
+10k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,596314A1,R14
+10,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,596319DC,R10
+10,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,5963419E,R11
+10k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,59634768,R15
+10,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,596319B1,R12
+10k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,59631D79,R16
+10k,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,59636E15,R17
+IRFZ40,Maplex_Misc:TO-220_Neutral_Vertical,transistors,IRF540N,/,/,59682EB2,Q4
+IRFZ40,Maplex_Misc:TO-220_Neutral_Vertical,transistors,IRF540N,/,/,59683B8F,Q3
+IRFZ40,Maplex_Misc:TO-220_Neutral_Vertical,transistors,IRF540N,/,/,59683E73,Q2
+IRFZ40,Maplex_Misc:TO-220_Neutral_Vertical,transistors,IRF540N,/,/,5968439B,Q1
+10,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,596884D5,R13
+LM7805CT,Maplex_Misc:TO-220_Neutral_Vertical,regul,LM7805CT,/,/,5969526E,U1
+LM7812CT,Maplex_Misc:TO-220_Neutral_Vertical,regul,LM7812CT,/,/,59695750,U2
+0,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,5969A377,R20
+0,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,5969B1CE,R19
+0,Maplex_Misc:Resistor_Horizontal_RM10mm_L7mm,device,R,/,/,5969C312,R18
